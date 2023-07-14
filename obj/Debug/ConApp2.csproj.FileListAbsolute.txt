@@ -1,0 +1,16 @@
+D:\Mphasis\day2\ConApp2\ConApp2\bin\Debug\ConApp2.exe.config
+D:\Mphasis\day2\ConApp2\ConApp2\bin\Debug\ConApp2.exe
+D:\Mphasis\day2\ConApp2\ConApp2\bin\Debug\ConApp2.pdb
+D:\Mphasis\day2\ConApp2\ConApp2\obj\Debug\ConApp2.csproj.AssemblyReference.cache
+D:\Mphasis\day2\ConApp2\ConApp2\obj\Debug\ConApp2.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\day2\ConApp2\ConApp2\obj\Debug\ConApp2.csproj.CoreCompileInputs.cache
+D:\Mphasis\day2\ConApp2\ConApp2\obj\Debug\ConApp2.exe
+D:\Mphasis\day2\ConApp2\ConApp2\obj\Debug\ConApp2.pdb
+D:\Simply Learn\day2\conApp2\ConApp2\bin\Debug\ConApp2.exe.config
+D:\Simply Learn\day2\conApp2\ConApp2\bin\Debug\ConApp2.exe
+D:\Simply Learn\day2\conApp2\ConApp2\bin\Debug\ConApp2.pdb
+D:\Simply Learn\day2\conApp2\ConApp2\obj\Debug\ConApp2.csproj.AssemblyReference.cache
+D:\Simply Learn\day2\conApp2\ConApp2\obj\Debug\ConApp2.csproj.SuggestedBindingRedirects.cache
+D:\Simply Learn\day2\conApp2\ConApp2\obj\Debug\ConApp2.csproj.CoreCompileInputs.cache
+D:\Simply Learn\day2\conApp2\ConApp2\obj\Debug\ConApp2.exe
+D:\Simply Learn\day2\conApp2\ConApp2\obj\Debug\ConApp2.pdb
